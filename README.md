@@ -1,6 +1,6 @@
 # Automação de Fluxo de Leads: Digisac + Cloudflare + RD Station CRM
 
-Este projeto é "ponte" inteligente que filtra, trata e sincroniza dados em tempo real entre o a plataforma de atendimento **Digisac** e o **RD Station CRM**.
+Este projeto é uma "ponte" inteligente que filtra, trata e sincroniza dados em tempo real entre o a plataforma de atendimento **Digisac** e o **RD Station CRM**.
 
 ## Arquitetura da Solução
 
