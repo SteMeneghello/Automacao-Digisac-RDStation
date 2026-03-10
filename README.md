@@ -10,6 +10,8 @@ O fluxo foi desenhado para ser leve, seguro e escalável, utilizando três camad
 2. **Google Apps Script:** Recebe os dados validados, organiza-os em planilhas automatizadas (separadas por meses) e verifica duplicidade.
 3. **Integração RD Station CRM:** Se o lead for novo e qualificado, o script faz o envio automático para a etapa correta do funil de vendas via API REST.
 
+---
+
 ### Fluxo de Dados
 
 ```mermaid
